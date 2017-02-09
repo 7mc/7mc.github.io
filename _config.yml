@@ -3,8 +3,8 @@
 name: Chalk
 paginate: 25
 paginate_path: "/posts/page/:num/"
-url: # add site url http://example.com/
-blog_theme: light # Or use dark
+url: # 7mc.github,.io
+blog_theme: dark # Or use light
 
 # Optional settings
 
@@ -16,7 +16,7 @@ social:
   dribbble: # Add your Dribbble handle
   facebook: # Add your Facebook handle
   flickr: # Add your Flickr handle
-  github: # Add your GitHub handle
+  github: # 7mc
   linkedin: # Add your LinkedIn handle
   twitter: # Add your Twitter handle
   email: # Add your Email address
